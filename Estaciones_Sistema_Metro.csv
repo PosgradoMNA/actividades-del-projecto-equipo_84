@@ -1,0 +1,168 @@
+﻿X,Y,objectid,linea,nombre,codigo_mpio,municipio,sistema,tipo
+-75.5585557071937,6.29994259008367,1,A,Estación Acevedo (Línea A),05001,Medellín,Metro,Estación
+-75.5647167280097,6.29031534118245,2,A,Estación Tricentenario (Línea A),05001,Medellín,Metro,Estación
+-75.5694048558144,6.27832651707121,3,A,Estación Caribe (Línea A),05001,Medellín,Metro,Estación
+-75.5658279961184,6.26943275514948,4,A,Estación Universidad (Línea A),05001,Medellín,Metro,Estación
+-75.5633348028957,6.26391952494791,5,A,Estación Hospital (Línea A),05001,Medellín,Metro,Estación
+-75.5661721550768,6.25685016727448,6,A,Estación Prado (Línea A),05001,Medellín,Metro,Estación
+-75.5682359311358,6.25050160347719,7,A,Estación Parque Berrío (Línea A),05001,Medellín,Metro,Estación
+-75.5697034073059,6.24719454351342,8,A,Estación San Antonio (Línea A),05001,Medellín,Metro,Estación
+-75.5751519778633,6.24905357172946,9,B,Estación Cisneros (Línea B),05001,Medellín,Metro,Estación
+-75.571425288161,6.24291711055267,10,A,Estación Alpujarra (Línea A),05001,Medellín,Metro,Estación
+-75.5731636531016,6.23841985323318,11,A,Estación Exposiciones (Línea A),05001,Medellín,Metro,Estación
+-75.575618520601,6.23009059069136,12,A,Estación Industriales (Línea A),05001,Medellín,Metro,Estación
+-75.5780956618279,6.2121783403611,13,A,Estación Poblado (Línea A),05001,Medellín,Metro,Estación
+-75.5818095442491,6.1939196306817,14,A,Estación Aguacatala (Línea A),05001,Medellín,Metro,Estación
+-75.582941711663,6.25298404616691,15,B,Estación Suramericana (Línea B),05001,Medellín,Metro,Estación
+-75.5882563739542,6.25333562923324,16,B,Estación Estadio (Línea B),05001,Medellín,Metro,Estación
+-75.5977436999604,6.25870904240013,17,B,Estación Floresta (Línea B),05001,Medellín,Metro,Estación
+-75.6037462489771,6.2580882099152,18,B,Estación Santa Lucia (Línea B),05001,Medellín,Metro,Estación
+-75.6136642039743,6.25678093038968,19,B,Estación San Javier (Línea B),05001,Medellín,Metro,Estación
+-75.5553244904729,6.31587687478175,20,A,Estación Madera (Línea A),05088,Bello,Metro,Estación
+-75.5536350819187,6.33009769975959,21,A,Estación Bello (Línea A),05088,Bello,Metro,Estación
+-75.5442873990234,6.33782749669792,22,A,Estación Niquía (Línea A),05088,Bello,Metro,Estación
+-75.5860638621285,6.18616161338868,23,A,Estación Ayurá (Línea A),05266,Envigado,Metro,Estación
+-75.5970654701243,6.17468614727454,24,A,Estación Envigado (Línea A),05360,Itagüí,Metro,Estación
+-75.6068632485028,6.16289398638237,25,A,Estación Itaguí (Línea A),05360,Itagüí,Metro,Estación
+-75.6162423823145,6.15768901932501,26,A,Estación Sabaneta (Línea A),05631,Sabaneta,Metro,Estación
+-75.6263632191237,6.15278426361469,27,A,Estación La Estrella (Línea A),05631,Sabaneta,Metro,Estación
+-75.5697279007704,6.2472023410216,28,B,Estación San Antonio (Línea B),05001,Medellín,Metro,Estación
+-75.5029717312349,6.28154575110938,29,L,Estación Arví (Línea L),05001,Medellín,Cable,Estación
+-75.5417272822104,6.29315937781415,30,K,Estación Santo Domingo (Línea K),05001,Medellín,Cable,Estación
+-75.5481413647301,6.29512259612395,31,K,Estación Popular (Línea K),05001,Medellín,Cable,Estación
+-75.5518969352687,6.29627205460803,32,K,Estación Andalucía (Línea K),05001,Medellín,Cable,Estación
+-75.6137025710201,6.26567653049018,33,J,Estación Juan XXIII (Línea J),05001,Medellín,Cable,Estación
+-75.614017156541,6.27536076855347,34,J,Estación Vallejuelos (Línea J),05001,Medellín,Cable,Estación
+-75.6142033755028,6.28109317517167,35,J,Estación La Aurora (Línea J),05001,Medellín,Cable,Estación
+-75.5413945040083,6.24761517926628,36,M,Estación 13 de Noviembre (Línea M),05001,Medellín,Cable,Estación
+-75.528679476389,6.23487454363907,37,H,Estación Villa Sierra (Línea H),05001,Medellín,Cable,Estación
+-75.5444759545032,6.24526308947616,38,M,Estación El Pinal (Línea M),05001,Medellín,Cable,Estación
+-75.5363721166796,6.23664541409579,39,H,Estación Las Torres (Línea H),05001,Medellín,Cable,Estación
+-75.5418476304073,6.29272254939581,40,L,Estación Santo Domingo (Línea L),05001,Medellín,Cable,Estación
+-75.5583080210086,6.30027217547547,41,K,Estación Acevedo (Línea K),05001,Medellín,Cable,Estación
+-75.5491113458109,6.24172479061194,42,M,Estación Miraflores (Línea M),05001,Medellín,Cable,Estación
+-75.5399371365802,6.2333620125356,43,H,Estación Oriente (Línea H),05001,Medellín,Cable,Estación
+-75.6134116417339,6.25672017040803,44,J,Estación San Javier (Línea J),05001,Medellín,Cable,Estación
+-75.5823335872499,6.30599901971645,45,P,Estación El Progreso (Línea P),05001,Medellín,Cable,Estación
+-75.5759472141635,6.30424822999306,46,P,Estación Doce de Octubre (Línea P),05001,Medellín,Cable,Estación
+-75.5673188985545,6.3018826721482,47,P,Estación Sena-Pedregal (Línea P),05001,Medellín,Cable,Estación
+-75.5588079738884,6.29954912795052,48,P,Estación Acevedo (Línea P),05001,Medellín,Cable,Estación
+-75.5417391336839,6.235509448773,49,T,Estación Alejandro Echavarría (Línea T),05001,Medellín,Tranvía,Estación
+-75.5587626628655,6.24395102006647,50,T,Estación Bicentenario (Línea T),05001,Medellín,Tranvía,Estación
+-75.5451756477865,6.23902804192344,51,T,Estación Loyola (Línea T),05001,Medellín,Tranvía,Estación
+-75.5401397381178,6.23315021150395,52,T,Estación Oriente (Línea T),05001,Medellín,Tranvía,Estación
+-75.5619932849016,6.24558862493685,53,T,Estación Pabellón del Agua (Línea T),05001,Medellín,Tranvía,Estación
+-75.5653862127465,6.24732916927992,54,T,Estación San José (Línea T),05001,Medellín,Tranvía,Estación
+-75.5538999995876,6.24139922685279,55,T,Estación Buenos Aires (Línea T),05001,Medellín,Tranvía,Estación
+-75.5490033907717,6.24138787426225,56,T,Estación Miraflores (Línea T),05001,Medellín,Tranvía,Estación
+-75.5691571507647,6.24699781087874,57,T,Estación San Antonio (Línea T),05001,Medellín,Tranvía,Estación
+-75.6092248969268,6.2306668818317,58,1,Estación Universidad de Medellín (Línea 1),05001,Medellín,Metroplus,Estación
+-75.6051687339245,6.23109274155316,59,1,Parada Los Alpes (Línea 1),05001,Medellín,Metroplus,Parada
+-75.6010278759605,6.23117775146433,60,1,Parada La Palma (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5967500069493,6.23139602670513,61,1,Parada Parque Belén (Línea 1),05001,Medellín,Metroplus,Parada
+-75.590970014646,6.23159618898699,62,1,Parada Rosales (Línea 1),05001,Medellín,Metroplus,Parada
+-75.586564113249,6.23174271629464,63,1,Parada Fátima (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5820581601905,6.23186520292284,64,1,Parada Nutibara (Línea 1),05001,Medellín,Metroplus,Parada
+-75.575400728552,6.24366185672786,65,1,Parada Plaza Mayor (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5750356181862,6.25085315606525,66,1,Parada Cisneros (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5731452286551,6.25609136852109,67,1,Parada Minorista (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5691426142268,6.26071063593293,68,1,Parada Chagualo (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5675800630621,6.26393106724812,69,1,Parada Ruta N (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5601699564031,6.2634863688281,70,1,Parada San Pedro (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5559231340665,6.26211308484593,71,1,Parada Palos Verdes (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5550441307643,6.26766778110658,72,1,Parada Gardel (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5540786933622,6.27325743471826,73,1,Parada Manrique (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5531680217513,6.27839345002257,74,1,Parada Las Esmeraldas (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5529379919532,6.28293199998718,75,1,Parada Berlin (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5566589881332,6.28520013148265,76,1,Parada Parque Aranjuez (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5709859589865,6.22862438957243,77,2,Paradero Barrio Colombia (Línea 2),05001,Medellín,Metroplus,Paradero
+-75.5698289154258,6.22905763079973,78,2,Paradero Barrio Colombia (Línea 2),05001,Medellín,Metroplus,Paradero
+-75.5700422527294,6.23408877202408,79,2,Parada Perpetuo Socorro (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5697817511784,6.24060955371316,80,2,Parada Barrio Colón (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5660917935881,6.24708022320731,81,2,Parada San José (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5643944484184,6.24959091359087,82,2,Parada La Playa (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5624737614077,6.25296478210515,83,2,Parada Catedral Metropolitana (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5595881346616,6.25879724909273,84,2,Paradero Prado (Línea 2),05001,Medellín,Metroplus,Paradero
+-75.5603729217584,6.25897034151252,85,2,Paradero Prado (Línea 2),05001,Medellín,Metroplus,Paradero
+-75.5564025900864,6.26325595923263,86,2,Paradero Palos Verdes (Línea 2),05001,Medellín,Metroplus,Paradero
+-75.552870231133,6.28292594063446,87,1,Parada Berlin (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5531259752062,6.27838681467882,88,1,Parada Las Esmeraldas (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5540235502785,6.27324829730172,89,1,Parada Manrique (Línea 1),05001,Medellín,Metroplus,Parada
+-75.554990729514,6.26766326458667,90,1,Parada Gardel (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5558172173046,6.26207271254905,91,1,Parada Palos Verdes (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5601864647431,6.26338872441304,92,1,Parada San Pedro (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5632445734137,6.26399636437344,93,1,Estación Hospital (Línea 1),05001,Medellín,Metroplus,Estación
+-75.5633030968578,6.26385064975301,94,1,Estación Hospital (Línea 1),05001,Medellín,Metroplus,Estación
+-75.5676779282241,6.26394673141534,95,1,Parada Ruta N (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5692018778827,6.2607406714574,96,1,Parada Chagualo (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5732230146739,6.25616009739987,97,1,Parada Minorista (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5751305871797,6.25085823173253,98,1,Parada Cisneros (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5753043348304,6.2436591179373,99,1,Parada Plaza Mayor (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5767583874751,6.23048088678758,100,1,Estación Industriales (Línea 1),05001,Medellín,Metroplus,Estación
+-75.5820552748019,6.23173679387137,101,1,Parada Nutibara (Línea 1),05001,Medellín,Metroplus,Parada
+-75.586562004903,6.2316142134474,102,1,Parada Fátima (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5909682269986,6.23153956427967,103,1,Parada Rosales (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5967473173934,6.23133031204966,104,1,Parada Parque Belén (Línea 1),05001,Medellín,Metroplus,Parada
+-75.6010240527306,6.2311097131742,105,1,Parada La Palma (Línea 1),05001,Medellín,Metroplus,Parada
+-75.6051663794401,6.23102311548321,106,1,Parada Los Alpes (Línea 1),05001,Medellín,Metroplus,Parada
+-75.5701855600683,6.2340834390094,107,2,Parada Perpetuo Socorro (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5699022143597,6.24064819794132,108,2,Parada Barrio Colón (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5662164528001,6.24716041914441,109,2,Parada San José (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5645498336063,6.24966320540762,110,2,Parada La Playa (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5625984475691,6.25303817538158,111,2,Parada Catedral Metropolitana (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5765009985867,6.23049307457794,112,2,Parada Industriales (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5558172173046,6.26207271254905,113,2,Parada Palos Verdes (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5566589881332,6.28520013148265,114,1,Parada Parque Aranjuez (Línea 1),05001,Medellín,Metroplus,Parada
+-75.6092248969268,6.2306668818317,115,1,Estación Universidad de Medellín (Línea 1),05001,Medellín,Metroplus,Estación
+-75.5703619307996,6.27751343000984,116,O,Parada Caribe Buses CR 64,05001,Medellín,Metroplus,Paradero
+-75.5740298724789,6.27535652623054,117,O,Parada Cementerio Universal,05001,Medellín,Metroplus,Paradero
+-75.578337376013,6.27377406593486,118,O,Parada Barrio Cordoba Tranversal 78,05001,Medellín,Metroplus,Paradero
+-75.5825966382196,6.2736253466389,119,O,Parada Barrio Pilarica CL 73 x CR 72A,05001,Medellín,Metroplus,Paradero
+-75.5875260328484,6.27313026183181,120,O,Parada Ciudadela Universitaria,05001,Medellín,Metroplus,Paradero
+-75.5937884366291,6.27214974971874,121,O,Parada Facultad de Minas,05001,Medellín,Metroplus,Paradero
+-75.5952468353232,6.27010873739916,122,O,Parada Barrio los Colores AV 80 x CL 54,05001,Medellín,Metroplus,Paradero
+-75.5963466705733,6.26519826667385,123,O,Parada Barrio Calazans,05001,Medellín,Metroplus,Paradero
+-75.5979370075281,6.25812834677807,124,O,Parada Integracion Estación Floresta,05001,Medellín,Metroplus,Paradero
+-75.5988131595775,6.2546947916746,125,O,Parada Barrio Los Pinos,05001,Medellín,Metroplus,Paradero
+-75.6026251721638,6.2463206530308,126,O,Parada Barrio Laureles,05001,Medellín,Metroplus,Paradero
+-75.6029836960819,6.24003263411621,127,O,Parada  Santa Gema,05001,Medellín,Metroplus,Paradero
+-75.6022850412511,6.23491938572193,128,O,Parada Nueva Villa de Aburrá,05001,Medellín,Metroplus,Paradero
+-75.6022176846728,6.23282905297282,129,O,Parada Integracion La Palma,05001,Medellín,Metroplus,Paradero
+-75.6021005964621,6.23243079122413,130,O,Parada Integracion La Palma,05001,Medellín,Metroplus,Paradero
+-75.5703619307996,6.27751343000984,131,O,Parada Caribe Buses CR 64,05001,Medellín,Metroplus,Paradero
+-75.602180098263,6.23537037550348,132,O,Parada  Nueva Villa de Aburrá,05001,Medellín,Metroplus,Paradero
+-75.6028934019211,6.23972952720006,133,O,Parada Barrio Santa Gema,05001,Medellín,Metroplus,Paradero
+-75.6025171245981,6.24630977561353,134,O,Parada Barrio Laureles,05001,Medellín,Metroplus,Paradero
+-75.5985323543046,6.25503180839929,135,O,Parada Barrio Los Pinos,05001,Medellín,Metroplus,Paradero
+-75.5975699855474,6.2592106791453,136,O,Parada Integracion Barrio Floresta,05001,Medellín,Metroplus,Paradero
+-75.5964085635981,6.2644658230057,137,O,Parada Barrio Calazans,05001,Medellín,Metroplus,Paradero
+-75.595186553876,6.26990546544948,138,O,Parada Barrio los colores AV 80 x CL 54,05001,Medellín,Metroplus,Paradero
+-75.5921501314347,6.27378508386397,139,O,Parada Facultad de Minas,05001,Medellín,Metroplus,Paradero
+-75.5885818192086,6.27302466315668,140,O,Parada Ciudadela Universitaria,05001,Medellín,Metroplus,Paradero
+-75.5827614467349,6.2735522080646,141,O,Parada Barrio Pilarica CL 73 x CR 72A,05001,Medellín,Metroplus,Paradero
+-75.5782504738907,6.27411147930471,142,O,Parada Barrio Cordoba CR 67 x CL 78A,05001,Medellín,Metroplus,Paradero
+-75.5731677350463,6.27684981283753,143,O,Parada Cementerio Universal CR 65,05001,Medellín,Metroplus,Paradero
+-75.5566589881332,6.28520013148265,144,2,Parada Parque Aranjuez (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5529379919532,6.28293199998718,145,2,Parada Berlin (Línea 2),05001,Medellín,Metroplus,Parada
+-75.552870231133,6.28292594063446,146,2,Parada Berlin (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5531680217513,6.27839345002257,147,2,Parada Las Esmeraldas (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5531259752062,6.27838681467882,148,2,Parada Las Esmeraldas (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5540786933622,6.27325743471826,149,2,Parada Manrique (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5540235502785,6.27324829730172,150,2,Parada Manrique (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5550441307643,6.26766778110658,151,2,Parada Gardel (Línea 2),05001,Medellín,Metroplus,Parada
+-75.554990729514,6.26766326458667,152,2,Parada Gardel (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5820552748019,6.23173679387137,153,2,Parada Nutibara (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5820581601905,6.23186520292284,154,2,Parada Nutibara (Línea 2),05001,Medellín,Metroplus,Parada
+-75.586562004903,6.2316142134474,155,2,Parada Fátima (Línea 2),05001,Medellín,Metroplus,Parada
+-75.586564113249,6.23174271629464,156,2,Parada Fátima (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5909682269986,6.23153956427967,157,2,Parada Rosales (Línea 2),05001,Medellín,Metroplus,Parada
+-75.590970014646,6.23159618898699,158,2,Parada Rosales (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5967473173934,6.23133031204966,159,2,Parada Parque Belén (Línea 2),05001,Medellín,Metroplus,Parada
+-75.5967500069493,6.23139602670513,160,2,Parada Parque Belén (Línea 2),05001,Medellín,Metroplus,Parada
+-75.6010240527306,6.2311097131742,161,2,Parada La Palma (Línea 2),05001,Medellín,Metroplus,Parada
+-75.6010278759605,6.23117775146433,162,2,Parada La Palma (Línea 2),05001,Medellín,Metroplus,Parada
+-75.6051663794401,6.23102311548321,163,2,Parada Los Alpes (Línea 2),05001,Medellín,Metroplus,Parada
+-75.6051687339245,6.23109274155316,164,2,Parada Los Alpes (Línea 2),05001,Medellín,Metroplus,Parada
+-75.6092248969268,6.2306668818317,165,2,Estación Universidad de Medellín (Línea 2),05001,Medellín,Metroplus,Estación
+-75.5566589881332,6.28520013148265,166,2,Parada Parque Aranjuez (Línea 2),05001,Medellín,Metroplus,Parada
+-75.6092248969268,6.2306668818317,167,2,Estación Universidad de Medellín (Línea 2),05001,Medellín,Metroplus,Estación
